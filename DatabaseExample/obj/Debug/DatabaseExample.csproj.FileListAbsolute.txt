@@ -1,0 +1,12 @@
+C:\Users\Cemalettin\Desktop\Csharp Projects\DatabaseExample\DatabaseExample\bin\Debug\dbinfo.mdf
+C:\Users\Cemalettin\Desktop\Csharp Projects\DatabaseExample\DatabaseExample\bin\Debug\dbinfo_log.ldf
+C:\Users\Cemalettin\Desktop\Csharp Projects\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.exe.config
+C:\Users\Cemalettin\Desktop\Csharp Projects\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.exe
+C:\Users\Cemalettin\Desktop\Csharp Projects\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.pdb
+C:\Users\Cemalettin\Desktop\Csharp Projects\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.csproj.AssemblyReference.cache
+C:\Users\Cemalettin\Desktop\Csharp Projects\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.frmCRUD.resources
+C:\Users\Cemalettin\Desktop\Csharp Projects\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.Properties.Resources.resources
+C:\Users\Cemalettin\Desktop\Csharp Projects\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.csproj.GenerateResource.cache
+C:\Users\Cemalettin\Desktop\Csharp Projects\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.csproj.CoreCompileInputs.cache
+C:\Users\Cemalettin\Desktop\Csharp Projects\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.exe
+C:\Users\Cemalettin\Desktop\Csharp Projects\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.pdb
